@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Physics
+  - Node
+  - NPC
+  - Arm
+  - PhysicsFood
+  - Table
+  - Villager
+  - Spawner
+  - Despawner
+  - Drawable
+  - TruckGoal
+  - Truck
+  - Version
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Pivot
+  - Plate
+  - Roof
+  - InvisibleWall
+  - NPC
+  - Node
+  - NodeBlockingWall
+  - NPCnoCollisions
+  - IgnoreLighting
+  - IgnoreSpotLighting
+  - Button
+  - Food
+  - Drawable
+  - ClipThroughAgents
+  - Fire
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
